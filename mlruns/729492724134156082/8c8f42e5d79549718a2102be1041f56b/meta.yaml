@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/729492724134156082/8c8f42e5d79549718a2102be1041f56b/artifacts
+end_time: 1745318096424
+entry_point_name: ''
+experiment_id: '729492724134156082'
+lifecycle_stage: active
+run_id: 8c8f42e5d79549718a2102be1041f56b
+run_name: able-fowl-820
+run_uuid: 8c8f42e5d79549718a2102be1041f56b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745318083169
+status: 3
+tags: []
+user_id: Kunal

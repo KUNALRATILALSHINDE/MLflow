@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5283694ee4b549f188eff46890417d9d/artifacts
+end_time: 1745317465445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5283694ee4b549f188eff46890417d9d
+run_name: calm-cat-321
+run_uuid: 5283694ee4b549f188eff46890417d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745317439612
+status: 3
+tags: []
+user_id: Kunal
